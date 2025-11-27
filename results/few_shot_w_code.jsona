@@ -1,0 +1,101 @@
+{"response_message": "'2: other'", "true_label": "2", "tweet_id": "1050586748172955648"}
+{"response_message": "'0: inclusionary about in/both groups'", "true_label": "1", "tweet_id": "875636361046376449"}
+{"response_message": "'2: other'", "true_label": "1", "tweet_id": "843443187226238978"}
+{"response_message": "'1: exclusionary about outgroup'", "true_label": "2", "tweet_id": "672096560713482240"}
+{"response_message": "This is labeled as '1: exclusionary about outgroup'.", "true_label": "2", "tweet_id": "926800169978466304"}
+{"response_message": "This is labeled as '1: exclusionary about outgroup'.", "true_label": "1", "tweet_id": "1071783315059953664"}
+{"response_message": "This is labeled as '2: other'.", "true_label": "2", "tweet_id": "897154393497317378"}
+{"response_message": "'0: inclusionary about in/both groups'", "true_label": "2", "tweet_id": "1051465280109637633"}
+{"response_message": "'2: other'", "true_label": "2", "tweet_id": "452765077108961280"}
+{"response_message": "This is labeled as '1: exclusionary about outgroup'.", "true_label": "1", "tweet_id": "701650601608921089"}
+{"response_message": "'2: other'", "true_label": "2", "tweet_id": "584357295754190850"}
+{"response_message": "'2: other'", "true_label": "1", "tweet_id": "1058309663970729984"}
+{"response_message": "This is labeled as '1: exclusionary about outgroup'.", "true_label": "2", "tweet_id": "913781276204814336"}
+{"response_message": "The text is labeled as '2: other'.", "true_label": "2", "tweet_id": "933677123650424833"}
+{"response_message": "This is labeled as '1: exclusionary about outgroup'.", "true_label": "1", "tweet_id": "1078043463139110913"}
+{"response_message": "This is labeled as '1: exclusionary about outgroup'.", "true_label": "2", "tweet_id": "840625874529525760"}
+{"response_message": "'1: exclusionary about outgroup'", "true_label": "1", "tweet_id": "584368049475739648"}
+{"response_message": "This is labeled as '1: exclusionary about outgroup'.", "true_label": "1", "tweet_id": "661302252905304064"}
+{"response_message": "This is labeled as '1: exclusionary about outgroup'.", "true_label": "1", "tweet_id": "658227296374018048"}
+{"response_message": "This is labeled as '2: other'.", "true_label": "2", "tweet_id": "897154393497317378"}
+{"response_message": "'2: other'", "true_label": "1", "tweet_id": "904436229806186496"}
+{"response_message": "'2: other'", "true_label": "2", "tweet_id": "860163234644537348"}
+{"response_message": "This text should be labeled as '2: other'.", "true_label": "2", "tweet_id": "963126666057912322"}
+{"response_message": "This is labeled as '2: other'.", "true_label": "2", "tweet_id": "1040133718751551488"}
+{"response_message": "The text 'Sachen gibt\u00b4s .' would be classified as '2: other', as it does not exhibit any ingroup or outgroup thinking, nor is any speaker's affiliation apparent.", "true_label": "2", "tweet_id": "1036702753588961281"}
+{"response_message": "This is labeled as '1: exclusionary about outgroup'.", "true_label": "0", "tweet_id": "819986629641310208"}
+{"response_message": "This text is labeled as '1: exclusionary about outgroup', as it portrays Trump, presumably representing an outgroup, in a negative light implying he is a mistake.", "true_label": "1", "tweet_id": "1019318203032489984"}
+{"response_message": "This is labeled as '1: exclusionary about outgroup'.", "true_label": "1", "tweet_id": "1049410094214074370"}
+{"response_message": "This is labeled as '1: exclusionary about outgroup'.", "true_label": "1", "tweet_id": "930675797257609223"}
+{"response_message": "'2: other'", "true_label": "2", "tweet_id": "621342497906794500"}
+{"response_message": "This text is labeled as '1: exclusionary about outgroup'.", "true_label": "1", "tweet_id": "824362223275483137"}
+{"response_message": "'2: other'", "true_label": "1", "tweet_id": "588292471882440704"}
+{"response_message": "This text would be labeled as '2: other'. The text doesn't include explicit in- or outgroup thinking, and the speaker's affiliation is not apparent.", "true_label": "2", "tweet_id": "726535760938164224"}
+{"response_message": "'2: other'", "true_label": "2", "tweet_id": "617804643591135232"}
+{"response_message": "This is labeled as '1: exclusionary about outgroup'.", "true_label": "1", "tweet_id": "1040580281810472960"}
+{"response_message": "This is labeled as '1: exclusionary about outgroup'.", "true_label": "1", "tweet_id": "1036217390164594688"}
+{"response_message": "This text should be labeled as '2: other' as it does not exhibit in- or outgroup thinking and the speaker's affiliation is not apparent.", "true_label": "1", "tweet_id": "961239087620517890"}
+{"response_message": "This is labeled as '1: exclusionary about outgroup'.", "true_label": "1", "tweet_id": "975812460551819264"}
+{"response_message": "This text is labeled as '0: inclusionary about in/both groups'.", "true_label": "1", "tweet_id": "764572863328292864"}
+{"response_message": "'2: other'", "true_label": "2", "tweet_id": "615796246616276992"}
+{"response_message": "'0: inclusionary about in/both groups'", "true_label": "1", "tweet_id": "670556773481357313"}
+{"response_message": "'2: other'", "true_label": "1", "tweet_id": "655396016708046848"}
+{"response_message": "This is labeled as '1: exclusionary about outgroup'.", "true_label": "1", "tweet_id": "672098222081499137"}
+{"response_message": "'2: other'", "true_label": "1", "tweet_id": "1028169507284705280"}
+{"response_message": "'2: other'", "true_label": "2", "tweet_id": "818592899784916993"}
+{"response_message": "This is labeled as '0: inclusionary about in/both groups'", "true_label": "2", "tweet_id": "639052218507898880"}
+{"response_message": "'2: other'", "true_label": "2", "tweet_id": "621342283972132864"}
+{"response_message": "This text is labeled as '2: other'.", "true_label": "1", "tweet_id": "797528369701208064"}
+{"response_message": "This is labeled as '1: exclusionary about outgroup'.", "true_label": "1", "tweet_id": "682148696583225344"}
+{"response_message": "This is labeled as '1: exclusionary about outgroup'.", "true_label": "2", "tweet_id": "943790842329862145"}
+{"response_message": "'1: exclusionary about outgroup'", "true_label": "2", "tweet_id": "689005016577867776"}
+{"response_message": "This is labeled as '1: exclusionary about outgroup'.", "true_label": "1", "tweet_id": "773490169458589696"}
+{"response_message": "This is labeled as '1: exclusionary about outgroup'.", "true_label": "1", "tweet_id": "1015231183435829248"}
+{"response_message": "'2: other'", "true_label": "1", "tweet_id": "946025714305904641"}
+{"response_message": "'2: other'", "true_label": "2", "tweet_id": "717017372008251394"}
+{"response_message": "This text is labeled as '2: other', as it does not clearly depict in- or outgroup thinking, and the speaker's affiliation is not apparent.", "true_label": "1", "tweet_id": "656789089044307968"}
+{"response_message": "'2: other'", "true_label": "2", "tweet_id": "1050416738280574976"}
+{"response_message": "'2: other'", "true_label": "2", "tweet_id": "608627135931101184"}
+{"response_message": "This is labeled as '1: exclusionary about outgroup'.", "true_label": "2", "tweet_id": "927667583310090242"}
+{"response_message": "This is labeled as '1: exclusionary about outgroup'.", "true_label": "1", "tweet_id": "968146848132280321"}
+{"response_message": "'0: inclusionary about in/both groups'", "true_label": "2", "tweet_id": "818592899784916993"}
+{"response_message": "'2: other'", "true_label": "2", "tweet_id": "670578054935236608"}
+{"response_message": "'2: other'", "true_label": "1", "tweet_id": "802169420814630914"}
+{"response_message": "The text is labeled as '2: other'.", "true_label": "2", "tweet_id": "615793368350654468"}
+{"response_message": "'2: other'", "true_label": "2", "tweet_id": "851292379260698624"}
+{"response_message": "This is labeled as '1: exclusionary about outgroup'.", "true_label": "2", "tweet_id": "655345146486247425"}
+{"response_message": "'2: other'", "true_label": "1", "tweet_id": "765588064383139840"}
+{"response_message": "'2: other'", "true_label": "2", "tweet_id": "647413531143487488"}
+{"response_message": "'2: other'", "true_label": "2", "tweet_id": "560435156377677824"}
+{"response_message": "'2: other'", "true_label": "2", "tweet_id": "612732679382024192"}
+{"response_message": "'2: other'", "true_label": "1", "tweet_id": "765588064383139840"}
+{"response_message": "'2: other'", "true_label": "2", "tweet_id": "1036702753588961281"}
+{"response_message": "'0: inclusionary about in/both groups'", "true_label": "2", "tweet_id": "987350147746197505"}
+{"response_message": "'2: other'", "true_label": "2", "tweet_id": "450834984614789120"}
+{"response_message": "The text \"Oh Snap!\" would be labeled as '2: other' because it does not contain any information regarding in-groups, out-groups, or any kind of group dynamics. It is a standalone statement with no specification of group affiliation.", "true_label": "2", "tweet_id": "928577266594041874"}
+{"response_message": "'2: other'", "true_label": "1", "tweet_id": "656807459059847168"}
+{"response_message": "'2: other'", "true_label": "1", "tweet_id": "781602767379001344"}
+{"response_message": "'2: other'", "true_label": "2", "tweet_id": "607139730527010816"}
+{"response_message": "'2: other'", "true_label": "2", "tweet_id": "671558706199400448"}
+{"response_message": "'1: exclusionary about outgroup'", "true_label": "1", "tweet_id": "691624456557576194"}
+{"response_message": "'2: other'", "true_label": "1", "tweet_id": "763103796490821634"}
+{"response_message": "'0: inclusionary about in/both groups'", "true_label": "1", "tweet_id": "922827842202886144"}
+{"response_message": "'2: other'", "true_label": "0", "tweet_id": "946704079455227904"}
+{"response_message": "This is labeled as '1: exclusionary about outgroup'.", "true_label": "2", "tweet_id": "720739016665100288"}
+{"response_message": "This text is labeled as '1: exclusionary about outgroup'.", "true_label": "1", "tweet_id": "888486745452531712"}
+{"response_message": "This is labeled as '1: exclusionary about outgroup'.", "true_label": "1", "tweet_id": "899685141659910144"}
+{"response_message": "2: other", "true_label": "2", "tweet_id": "757173630161805312"}
+{"response_message": "'2: other'", "true_label": "2", "tweet_id": "632137550757556224"}
+{"response_message": "This text is labeled as '1: exclusionary about outgroup'.", "true_label": "1", "tweet_id": "794336074545905665"}
+{"response_message": "'2: other'; The text does not have in- or outgroup thinking, or the speaker's affiliation is not apparent.", "true_label": "2", "tweet_id": "608627135931101184"}
+{"response_message": "The label for this text would be '2: other'.", "true_label": "2", "tweet_id": "608647248159776768"}
+{"response_message": "This text is labeled as '1: exclusionary about outgroup'.", "true_label": "1", "tweet_id": "848594976388861952"}
+{"response_message": "The label for this text is '0: inclusionary about in/both groups'.", "true_label": "2", "tweet_id": "715821855660228608"}
+{"response_message": "This text is labeled as '2: other'.", "true_label": "2", "tweet_id": "734056700647477249"}
+{"response_message": "'2: other'", "true_label": "2", "tweet_id": "900971824166645760"}
+{"response_message": "'2: other'", "true_label": "1", "tweet_id": "918761536956649473"}
+{"response_message": "'2: other'", "true_label": "1", "tweet_id": "918761536956649473"}
+{"response_message": "This is labeled as '1: exclusionary about outgroup'.", "true_label": "1", "tweet_id": "658217580507897857"}
+{"response_message": "This text is labeled as '1: exclusionary about outgroup'.", "true_label": "2", "tweet_id": "670540853195251712"}
+{"response_message": "This is labeled as '1: exclusionary about outgroup'.", "true_label": "1", "tweet_id": "1033962084130856960"}
+{"response_message": "'2: other'", "true_label": "2", "tweet_id": "646342740310147074"}

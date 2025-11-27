@@ -1,0 +1,100 @@
+ {"response_message": "This should be labeled as 2: other.", "true_label": "2", "tweet_id": "352750691435028481"}
+{"response_message": "1: exclusionary about out-group", "true_label": "1", "tweet_id": "1006177184015405057"}
+{"response_message": "This message is labeled as 1: exclusionary about out-group.", "true_label": "2", "tweet_id": "670540853195251712"}
+{"response_message": "1: exclusionary about out-group", "true_label": "1", "tweet_id": "656789089044307968"}
+{"response_message": "This is labeled as other.", "true_label": "2", "tweet_id": "926800169978466304"}
+{"response_message": "2: other", "true_label": "2", "tweet_id": "670584655939289089"}
+{"response_message": "1: exclusionary about out-group", "true_label": "1", "tweet_id": "658217580507897857"}
+{"response_message": "2: other", "true_label": "2", "tweet_id": "1065351493916733441"}
+{"response_message": "This is labeled as other.", "true_label": "2", "tweet_id": "572441026515759106"}
+{"response_message": "2: other", "true_label": "2", "tweet_id": "897154393497317378"}
+{"response_message": "1: exclusionary about out-group", "true_label": "1", "tweet_id": "682169903525277696"}
+{"response_message": "2: other", "true_label": "2", "tweet_id": "937680758734573569"}
+{"response_message": "1: exclusionary about out-group", "true_label": "2", "tweet_id": "658231406032789504"}
+{"response_message": "This is labeled as exclusionary about out-group.", "true_label": "1", "tweet_id": "574259885254307840"}
+{"response_message": "2: other", "true_label": "1", "tweet_id": "1062728801535307776"}
+{"response_message": "2: other", "true_label": "2", "tweet_id": "920538242520354816"}
+{"response_message": "2: other", "true_label": "2", "tweet_id": "1038078250520641537"}
+{"response_message": "1: exclusionary about out-group", "true_label": "2", "tweet_id": "1075441678415224839"}
+{"response_message": "2: other", "true_label": "2", "tweet_id": "1057760615333351424"}
+{"response_message": "2: other", "true_label": "2", "tweet_id": "1052532016854511617"}
+{"response_message": "2: other", "true_label": "2", "tweet_id": "615799382038872065"}
+{"response_message": "2: other", "true_label": "2", "tweet_id": "753112416209240064"}
+{"response_message": "2: other", "true_label": "2", "tweet_id": "809303568691896320"}
+{"response_message": "1: exclusionary about out-group", "true_label": "2", "tweet_id": "720739016665100288"}
+{"response_message": "2: other", "true_label": "2", "tweet_id": "1026925881292414976"}
+{"response_message": "This is labeled as other.", "true_label": "2", "tweet_id": "964378270107025408"}
+{"response_message": "2: other", "true_label": "2", "tweet_id": "1052506018201182208"}
+{"response_message": "1: exclusionary about out-group", "true_label": "1", "tweet_id": "701650601608921089"}
+{"response_message": "This is labeled as exclusionary about out-group.", "true_label": "1", "tweet_id": "920548473128341505"}
+{"response_message": "2: other", "true_label": "1", "tweet_id": "918761536956649473"}
+{"response_message": "1: exclusionary about out-group", "true_label": "1", "tweet_id": "1038166820400848897"}
+{"response_message": "2: other", "true_label": "2", "tweet_id": "713316237024108545"}
+{"response_message": "2: other", "true_label": "2", "tweet_id": "617804643591135232"}
+{"response_message": "0: inclusionary about in or both groups", "true_label": "1", "tweet_id": "656808058274848768"}
+{"response_message": "This is labeled as other.", "true_label": "1", "tweet_id": "870609062517510144"}
+{"response_message": "2: other", "true_label": "2", "tweet_id": "926800169978466304"}
+{"response_message": "1: exclusionary about out-group", "true_label": "1", "tweet_id": "943961173967409152"}
+{"response_message": "2: other", "true_label": "2", "tweet_id": "605695228515893248"}
+{"response_message": "1: exclusionary about out-group", "true_label": "2", "tweet_id": "940107135249088512"}
+{"response_message": "1: exclusionary about out-group", "true_label": "2", "tweet_id": "733336992365318144"}
+{"response_message": "1: exclusionary about out-group", "true_label": "1", "tweet_id": "1055334280799416320"}
+{"response_message": "0: inclusionary about in or both groups", "true_label": "0", "tweet_id": "886310050641432579"}
+{"response_message": "1: exclusionary about out-group", "true_label": "1", "tweet_id": "856114305539993600"}
+{"response_message": "2: other", "true_label": "2", "tweet_id": "713315388801597440"}
+{"response_message": "1: exclusionary about out-group", "true_label": "1", "tweet_id": "945983375986380801"}
+{"response_message": "This is labeled as other.", "true_label": "2", "tweet_id": "907839645815361536"}
+{"response_message": "This is labeled as exclusionary about out-group.", "true_label": "1", "tweet_id": "1006177184015405057"}
+{"response_message": "This is labeled as inclusionary about in/both groups.", "true_label": "1", "tweet_id": "778597711834648576"}
+{"response_message": "2: other", "true_label": "1", "tweet_id": "704057497489952770"}
+{"response_message": "1: exclusionary about out-group", "true_label": "2", "tweet_id": "656792080384180224"}
+{"response_message": "2: other", "true_label": "2", "tweet_id": "571072790331330560"}
+{"response_message": "This text would be labeled as 2: other", "true_label": "2", "tweet_id": "738314648735342592"}
+{"response_message": "1: exclusionary about out-group", "true_label": "1", "tweet_id": "975812460551819264"}
+{"response_message": "2: other", "true_label": "1", "tweet_id": "638090461660512257"}
+{"response_message": "2: other", "true_label": "1", "tweet_id": "557165045554356224"}
+{"response_message": "2: other", "true_label": "1", "tweet_id": "661911024937918464"}
+{"response_message": "1: exclusionary about out-group", "true_label": "2", "tweet_id": "641892603542274048"}
+{"response_message": "2: other", "true_label": "1", "tweet_id": "922827842202886144"}
+{"response_message": "2: other", "true_label": "1", "tweet_id": "612331595094208516"}
+{"response_message": "1: exclusionary about out-group", "true_label": "2", "tweet_id": "637574415417507840"}
+{"response_message": "2: other", "true_label": "1", "tweet_id": "1038046801713160192"}
+{"response_message": "2: other", "true_label": "2", "tweet_id": "1016610792920244224"}
+{"response_message": "This is labeled as exclusionary about out-group.", "true_label": "1", "tweet_id": "888083632430120961"}
+{"response_message": "2: other", "true_label": "2", "tweet_id": "876844987148894208"}
+{"response_message": "1: exclusionary about out-group", "true_label": "1", "tweet_id": "746829220479905793"}
+{"response_message": "This is labeled as exclusionary about out-group.", "true_label": "1", "tweet_id": "1023457059877072896"}
+{"response_message": "This is labeled as exclusionary about out-group.", "true_label": "1", "tweet_id": "1008672986965082112"}
+{"response_message": "1: exclusionary about out-group", "true_label": "1", "tweet_id": "1067917031197077504"}
+{"response_message": "2: other", "true_label": "1", "tweet_id": "557165045554356224"}
+{"response_message": "2: other", "true_label": "2", "tweet_id": "897154393497317378"}
+{"response_message": "1: exclusionary about out-group", "true_label": "1", "tweet_id": "1009140619426566150"}
+{"response_message": "0: inclusionary about in or both groups", "true_label": "1", "tweet_id": "944519323447590913"}
+{"response_message": "2: other", "true_label": "1", "tweet_id": "612336193624231936"}
+{"response_message": "1: exclusionary about out-group", "true_label": "1", "tweet_id": "1022710750928883717"}
+{"response_message": "0: inclusionary about in or both groups", "true_label": "0", "tweet_id": "382165913794912256"}
+{"response_message": "2: other", "true_label": "1", "tweet_id": "986628957255749635"}
+{"response_message": "1: exclusionary about out-group", "true_label": "1", "tweet_id": "791199913820450816"}
+{"response_message": "2: other", "true_label": "2", "tweet_id": "1050416738280574976"}
+{"response_message": "1: exclusionary about out-group", "true_label": "1", "tweet_id": "946077252005122048"}
+{"response_message": "This is labeled as exclusionary about out-group.", "true_label": "1", "tweet_id": "1020698436335820800"}
+{"response_message": "This is labeled as exclusionary about out-group.", "true_label": "2", "tweet_id": "621613796176605184"}
+{"response_message": "2: other", "true_label": "1", "tweet_id": "911867591546802176"}
+{"response_message": "2: other", "true_label": "1", "tweet_id": "867387996798148609"}
+{"response_message": "2: other", "true_label": "2", "tweet_id": "985131454085632001"}
+{"response_message": "This is labeled as exclusionary about out-group.", "true_label": "1", "tweet_id": "824362223275483137"}
+{"response_message": "2: other", "true_label": "2", "tweet_id": "452765077108961280"}
+{"response_message": "1: exclusionary about out-group", "true_label": "2", "tweet_id": "634272821456314368"}
+{"response_message": "1: exclusionary about out-group", "true_label": "1", "tweet_id": "670556773481357313"}
+{"response_message": "2: other", "true_label": "2", "tweet_id": "555289379808477184"}
+{"response_message": "This is labeled as exclusionary about out-group.", "true_label": "2", "tweet_id": "701645553726312448"}
+{"response_message": "2: other", "true_label": "1", "tweet_id": "682648522085249024"}
+{"response_message": "2: other", "true_label": "1", "tweet_id": "890486291535724544"}
+{"response_message": "1: exclusionary about out-group", "true_label": "1", "tweet_id": "647344780993765376"}
+{"response_message": "1: exclusionary about out-group", "true_label": "1", "tweet_id": "1052655174966226944"}
+{"response_message": "This is labeled as exclusionary about out-group.", "true_label": "2", "tweet_id": "701645553726312448"}
+{"response_message": "1: exclusionary about out-group", "true_label": "1", "tweet_id": "739793332495364096"}
+{"response_message": "This is labeled as exclusionary about out-group.", "true_label": "1", "tweet_id": "853962974087827457"}
+{"response_message": "2: other", "true_label": "1", "tweet_id": "843443187226238978"}
+{"response_message": "1: exclusionary about out-group", "true_label": "1", "tweet_id": "971848505168982017"}
+{"response_message": "2: other", "true_label": "1", "tweet_id": "810185597910388737"}
