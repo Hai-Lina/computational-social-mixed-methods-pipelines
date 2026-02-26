@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Herderich"
+  given-names: "Alina"
+  orcid: "https://orcid.org/0000-0002-2940-600X"
+- family-names: "Lasser"
+  given-names: "Jana"
+  orcid: "https://orcid.org/0000-0002-4274-4580"
+title: "Measuring Complex Constructs in Large-Scale Text With Computational Social Mixed Methods"
+version: 1.0
+doi: tbd
+date-released: 2026-02-25
+url: "https://github.com/Hai-Lina/computational-social-mixed-methods-pipelines"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Herderich"
+    given-names: "Alina"
+    orcid: "https://orcid.org/0000-0002-2940-600X"
+  - family-names: "Lasser"
+    given-names: "Jana"
+    orcid: "https://orcid.org/0000-0002-4274-4580"
+  - family-names: "Galesic"
+    given-names: "Mirta"
+    orcid: "https://orcid.org/0000-0002-1712-9455"
+  - family-names: "Aroyehun"
+    given-names: "Segun Taofeek"
+    orcid: "https://orcid.org/0000-0002-2571-3731"
+  - family-names: "Garcia"
+    given-names: "David"
+    orcid: "https://orcid.org/0000-0002-2820-9151"
+  - family-names: "Garland"
+    given-names: "Joshua"
+    orcid: "https://orcid.org/0000-0002-6724-2755"
+  doi: "tbd"
+  journal: "tbd"
+  start: tbd
+  end: tbd
+  title: "Measuring Complex Constructs in Large-Scale Text With Computational Social Mixed Methods"
+  issue: tbd
+  volume: tbd
+  year: 2026
